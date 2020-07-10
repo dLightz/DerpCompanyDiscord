@@ -1,0 +1,8 @@
+F:\vb\source\repos\SYNTAXdb.DAL\bin\Release\netstandard2.0\SYNTAXdb.DAL.deps.json
+F:\vb\source\repos\SYNTAXdb.DAL\bin\Release\netstandard2.0\SYNTAXdb.DAL.dll
+F:\vb\source\repos\SYNTAXdb.DAL\bin\Release\netstandard2.0\SYNTAXdb.DAL.pdb
+F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.AssemblyInfoInputs.cache
+F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.AssemblyInfo.cs
+F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.csproj.CoreCompileInputs.cache
+F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.dll
+F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.pdb

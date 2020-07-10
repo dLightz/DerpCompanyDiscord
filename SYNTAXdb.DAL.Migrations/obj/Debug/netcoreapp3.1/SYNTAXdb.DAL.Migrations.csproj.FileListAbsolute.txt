@@ -1,0 +1,12 @@
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\bin\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.deps.json
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\bin\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.dll
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\bin\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.pdb
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\bin\Debug\netcoreapp3.1\SYNTAXdb.DAL.dll
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\bin\Debug\netcoreapp3.1\SYNTAXdb.DAL.pdb
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\obj\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.csprojAssemblyReference.cache
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\obj\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.AssemblyInfoInputs.cache
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\obj\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.AssemblyInfo.cs
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\obj\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.csproj.CoreCompileInputs.cache
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\obj\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.csproj.CopyComplete
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\obj\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.dll
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL.Migrations\obj\Debug\netcoreapp3.1\SYNTAXdb.DAL.Migrations.pdb

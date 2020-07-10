@@ -1,0 +1,12 @@
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\bin\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.deps.json
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\bin\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.dll
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\bin\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.pdb
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\bin\Debug\netcoreapp3.1\SYNTAXdb.DAL.dll
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\bin\Debug\netcoreapp3.1\SYNTAXdb.DAL.pdb
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.csprojAssemblyReference.cache
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.AssemblyInfoInputs.cache
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.AssemblyInfo.cs
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.csproj.CoreCompileInputs.cache
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.csproj.CopyComplete
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.dll
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots.Core\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.Core.pdb

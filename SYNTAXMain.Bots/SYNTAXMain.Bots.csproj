@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+	<TargetFramework>netcoreapp3.1</TargetFramework>
+	<RootNameSpace>SYNTAXMain.Bots</RootNameSpace>
+	<UserSecretsId>9a3a6ce7-68d5-40f9-b4da-f2fbdb295f6b</UserSecretsId>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\config.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.0.0-nightly-00707" />
+    <PackageReference Include="DSharpPlus.CommandsNext" Version="4.0.0-nightly-00707" />
+    <PackageReference Include="DSharpPlus.Interactivity" Version="4.0.0-nightly-00707" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.5" />
+    <PackageReference Include="SolrNet.Core" Version="1.0.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SYNTAXdb.DAL.Migrations\SYNTAXdb.DAL.Migrations.csproj" />
+    <ProjectReference Include="..\SYNTAXdb.DAL\SYNTAXdb.DAL.csproj" />
+    <ProjectReference Include="..\SYNTAXMain.Core\SYNTAXMain.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Attributes\" />
+  </ItemGroup>
+	
+</Project>
