@@ -5,4 +5,4 @@ services:
     image: ${DOCKER_REGISTRY-}syntaxmainbots
     build:
       context: .
-      dockerfile: SYNTAXMain.Bots\Dockerfile
+      dockerfile: SYNTAXMain.Bots/Dockerfile
