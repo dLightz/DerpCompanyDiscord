@@ -70,9 +70,12 @@ F:\vb\source\repos\SYNTAX\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0
 F:\vb\source\repos\SYNTAX\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 F:\vb\source\repos\SYNTAX\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.csproj.CoreCompileInputs.cache
 F:\vb\source\repos\SYNTAX\obj\Debug\netcoreapp3.1\SYNTAXMain.Bots.MvcApplicationPartsAssemblyInfo.cache
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\NuGet.Config
 D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\config.json
 D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\libman.json
 D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\SYNTAXMain.Bots.exe
 D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\SYNTAXMain.Bots.deps.json
 D:\SYNTAX\SYNTAX\SYNTAXMain.Bots\bin\Debug\netcoreapp3.1\SYNTAXMain.Bots.runtimeconfig.json

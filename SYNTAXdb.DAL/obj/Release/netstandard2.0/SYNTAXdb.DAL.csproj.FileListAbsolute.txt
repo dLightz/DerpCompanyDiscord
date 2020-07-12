@@ -6,3 +6,12 @@ F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.Assembly
 F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.csproj.CoreCompileInputs.cache
 F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.dll
 F:\vb\source\repos\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.pdb
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\bin\Release\netstandard2.0\SYNTAXdb.DAL.deps.json
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\bin\Release\netstandard2.0\SYNTAXdb.DAL.dll
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\bin\Release\netstandard2.0\SYNTAXdb.DAL.pdb
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.csprojAssemblyReference.cache
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.AssemblyInfoInputs.cache
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.AssemblyInfo.cs
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.csproj.CoreCompileInputs.cache
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.dll
+D:\SYNTAX\SYNTAX\SYNTAXdb.DAL\obj\Release\netstandard2.0\SYNTAXdb.DAL.pdb
