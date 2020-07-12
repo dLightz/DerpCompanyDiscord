@@ -1,19 +1,26 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-buster-slim AS base
 WORKDIR /app
+EXPOSE 80
+EXPOSE 443
 
-# Copy csproj and restore as distinct layers
-COPY *.csproj ./
-COPY ./NuGet.Config ./
-RUN dotnet restore
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
+WORKDIR /src
+COPY ["SYNTAXMain.Bots/SYNTAXMain.Bots.csproj", "SYNTAXMain.Bots/"]
+COPY ["SYNTAXMain.Bots/NuGet.Config", "SYNTAXMain.Bots/"]
+COPY ["SYNTAXdb.DAL.Migrations/SYNTAXdb.DAL.Migrations.csproj", "SYNTAXdb.DAL.Migrations/"]
+COPY ["SYNTAXdb.DAL/SYNTAXdb.DAL.csproj", "SYNTAXdb.DAL/"]
+COPY ["SYNTAXMain.Core/SYNTAXMain.Core.csproj", "SYNTAXMain.Core/"]
+RUN dotnet restore "SYNTAXMain.Bots/SYNTAXMain.Bots.csproj"
+COPY . .
+WORKDIR "/src/SYNTAXMain.Bots"
+RUN dotnet build "SYNTAXMain.Bots.csproj" -c Release -o /app/build
 
-# Copy and publish app and libraries
-COPY . ./
-RUN dotnet publish -c Release -o out
+FROM build AS publish
+RUN dotnet publish "SYNTAXMain.Bots.csproj" -c Release -o /app/publish
 
-
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
+FROM base AS final
 WORKDIR /app
-COPY --from=build /app/out ./
-
-COPY config.json ./
+COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "SYNTAXMain.Bots.dll"]

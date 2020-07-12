@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SYNTAXMain.Core", "SYNTAXMa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SYNTAXMain.Core", "SYNTAXMain.Core\SYNTAXMain.Core.csproj", "{D69577E1-EC6E-4CE9-BF6B-4C10023D4A21}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1E640915-58C5-48EA-BC31-7758137DF111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D69577E1-EC6E-4CE9-BF6B-4C10023D4A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69577E1-EC6E-4CE9-BF6B-4C10023D4A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69577E1-EC6E-4CE9-BF6B-4C10023D4A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E640915-58C5-48EA-BC31-7758137DF111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E640915-58C5-48EA-BC31-7758137DF111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E640915-58C5-48EA-BC31-7758137DF111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E640915-58C5-48EA-BC31-7758137DF111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

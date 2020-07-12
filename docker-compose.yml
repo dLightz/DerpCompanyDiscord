@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  syntaxmain.bots:
+    image: ${DOCKER_REGISTRY-}syntaxmainbots
+    build:
+      context: .
+      dockerfile: SYNTAXMain.Bots/Dockerfile
